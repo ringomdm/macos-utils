@@ -30,3 +30,5 @@
 - _dseditgroup_ - Manipulate group records with the Open Directory API
 ## MDM
 - _profiles_ - Profiles Tool for macOS
+## Storage
+- _diskutil_ - modify, verify and repair local disks
