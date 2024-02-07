@@ -16,6 +16,7 @@
 ## Network Settings
 - _ifconfig_ - configure network interface parameters
 - _networksetup_ - configuration tool for network settings in System Preferences
+- _/System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart_
 ## Printers
 - _lpadmin_ - configure cups printers and classes
 ## Power settings
