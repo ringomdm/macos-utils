@@ -64,6 +64,9 @@
 ## Software Intallation
 - _pkgutil_ - Query and manipulate Mac OS X Installer packages and receipts
 - _installer_ - system software and package installer tool
+- _xattr_ - display and manipulate extended attributes
+- _csrutil_ - Configure system security policies
+- _spctl_ - SecAssessment system policy security
 ## Processes
 - _top_ - display sorted information about processes
 - _ps_ - process status
