@@ -1,27 +1,27 @@
 # macos-utils
 ## System Info
-- sw_vers - print macOS system version information
-- SystemVersion.plist
+- _sw_vers_ - print macOS system version information
+- _SystemVersion.plist_
 ## macOS Install
 - _softwareupdate_ - system software update tool
-- /Applications/Install\ macOS\ Sonoma.app/Contents/Resources/
-  - createinstallmedia - create macOS USB installer
-  - startosinstall - install macOS - [Cheat Sheet](https://gist.github.com/acodega/57766c52a18a828b1ec44ad2492b5127)
+- _/Applications/Install\ macOS\ Sonoma.app/Contents/Resources/_
+  - _createinstallmedia_ - create macOS USB installer
+  - _startosinstall_ - install macOS - [Cheat Sheet](https://gist.github.com/acodega/57766c52a18a828b1ec44ad2492b5127)
 ## System Settings
-- languagesetup - Set the primary language for the system
-- cfprefsd - defaults server
-- systemsetup - configuration tool for certain machine settings in System Preferences
-- sysadminctl
+- _languagesetup_ - Set the primary language for the system
+- _cfprefsd_ - defaults server
+- _systemsetup_ - configuration tool for certain machine settings in System Preferences
+- _sysadminctl_
 - /Library/Preferences/.GlobalPreferences.plist
 ## Network Settings
-- ifconfig - configure network interface parameters
-- networksetup - configuration tool for network settings in System Preferences
+- _ifconfig_ - configure network interface parameters
+- _networksetup_ - configuration tool for network settings in System Preferences
 ## Printers
-- lpadmin - configure cups printers and classes
+- _lpadmin_ - configure cups printers and classes
 ## Power settings
-- pmset - manipulate power management settings
-- /Library/Preferences/.GlobalPreferences.plist
+- _pmset_ - manipulate power management settings
+- _/Library/Preferences/.GlobalPreferences.plist_
 ## Directory
-dscl - Directory Service command line utility
-dseditgroup - Manipulate group records with the Open Directory API
+_dscl_ - Directory Service command line utility
+_dseditgroup_ - Manipulate group records with the Open Directory API
 ##
