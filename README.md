@@ -63,13 +63,6 @@
 - _mdutil_ - manage the metadata stores used by Spotlight
 ## Time Machine
 - _tmutil_ - Time Machine utility
-## SIP (Monterey)
-- /System
-- /usr
-- /bin
-- /sbin
-- /System/Volumes/Data/Applications/
-- /private/var/db/ConfigurationProfiles
 ## Software Intallation
 - _pkgutil_ - Query and manipulate Mac OS X Installer packages and receipts
 - _installer_ - system software and package installer tool
