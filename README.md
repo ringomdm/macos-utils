@@ -12,7 +12,7 @@
 - _cfprefsd_ - defaults server
 - _systemsetup_ - configuration tool for certain machine settings in System Preferences
 - _sysadminctl_
-- /Library/Preferences/.GlobalPreferences.plist
+- _/Library/Preferences/.GlobalPreferences.plist_
 ## Network Settings
 - _ifconfig_ - configure network interface parameters
 - _networksetup_ - configuration tool for network settings in System Preferences
