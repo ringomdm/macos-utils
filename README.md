@@ -26,7 +26,7 @@
 - _com.apple.loginwindow.plist_
 - _chflags_ - change file flags
 ## Directory
-_dscl_ - Directory Service command line utility
-_dseditgroup_ - Manipulate group records with the Open Directory API
+- _dscl_ - Directory Service command line utility
+- _dseditgroup_ - Manipulate group records with the Open Directory API
 ## MDM
-_profiles_ - Profiles Tool for macOS
+- _profiles_ - Profiles Tool for macOS
