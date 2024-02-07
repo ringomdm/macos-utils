@@ -76,3 +76,4 @@
 - _killall_ - kill processes by name
 - _log_ - Access system wide log messages created by os_log, os_trace and other logging systems
 - _fs_usage_ - report system calls and page faults related to filesystem activity in real-time
+- _dtruss_ - process syscall details. Uses DTrace.
