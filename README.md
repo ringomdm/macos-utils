@@ -28,6 +28,9 @@
 - _traceroute_ - print the route packets take to network host
 - _nc_ - arbitrary TCP and UDP connections and listens
 - _tcpdump_ - dump traffic on a network
+## Samba
+- _smbutil_ - interface to the SMB requester
+- _nsmb.conf_
 ## Printers
 - _lpadmin_ - configure cups printers and classes
 ## Power settings
