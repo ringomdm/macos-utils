@@ -30,7 +30,7 @@
 - _tcpdump_ - dump traffic on a network
 ## Samba
 - _smbutil_ - interface to the SMB requester
-- _nsmb.conf_
+- _nsmb.conf_ - configuration file for SMB requests
 ## Printers
 - _lpadmin_ - configure cups printers and classes
 ## Power settings
