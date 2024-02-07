@@ -50,6 +50,8 @@
 - _fsck_apfs_ - APFS consistency check
 - _fsck_ - filesystem consistency check and interactive repair
 - _dd_ - convert and copy a file
+- _mount_ - mount file systems
+- _umount_ - unmount filesystems
 ## Spotlight
 - _mdutil_ - manage the metadata stores used by Spotlight
 ## Time Machine
