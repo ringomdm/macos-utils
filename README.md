@@ -51,6 +51,9 @@
 ## Software Intallation
 - _pkgutil_ - Query and manipulate Mac OS X Installer packages and receipts
 - _installer_ - system software and package installer tool
-## Monitoring
+## Processes
 - _top_ - display sorted information about processes
 - _ps_ - process status
+- _kill_ - terminate or signal a process
+- _killall_ - kill processes by name
+- _log_ - Access system wide log messages created by os_log, os_trace and other logging systems
