@@ -23,8 +23,8 @@
 - _pmset_ - manipulate power management settings
 - _.GlobalPreferences.plist_
 ## Users
-com.apple.loginwindow.plist
-
+- _com.apple.loginwindow.plist_
+- _chflags_ - change file flags
 ## Directory
 _dscl_ - Directory Service command line utility
 _dseditgroup_ - Manipulate group records with the Open Directory API
