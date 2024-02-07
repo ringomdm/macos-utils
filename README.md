@@ -28,6 +28,7 @@
 - _traceroute_ - print the route packets take to network host
 - _nc_ - arbitrary TCP and UDP connections and listens
 - _tcpdump_ - dump traffic on a network
+- _socketfilterfw_ - Application Firewall daemon
 ## Samba
 - _smbutil_ - interface to the SMB requester
 - _nsmb.conf_ - configuration file for SMB requests
