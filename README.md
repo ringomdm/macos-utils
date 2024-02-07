@@ -14,10 +14,14 @@
 - _sysadminctl_
 - _.GlobalPreferences.plist_
 - _fdesetup_ - FileVault configuration tool
-## Network Settings
+## Network
 - _ifconfig_ - configure network interface parameters
 - _networksetup_ - configuration tool for network settings in System Preferences
+- _scselect_ - Select system configuration "location"
 - _kickstart_
+- _airport_
+- _sysctl_ - get or set kernel state
+- _route_ - manually manipulate the routing tables
 ## Printers
 - _lpadmin_ - configure cups printers and classes
 ## Power settings
