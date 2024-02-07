@@ -13,6 +13,8 @@
 - _systemsetup_ - configuration tool for certain machine settings in System Preferences
 - _sysadminctl_
 - _.GlobalPreferences.plist_
+- _fdesetup_ - FileVault configuration tool
+- 
 ## Network Settings
 - _ifconfig_ - configure network interface parameters
 - _networksetup_ - configuration tool for network settings in System Preferences
@@ -35,4 +37,15 @@
 - _gpt_ - GUID partition table maintenance utility
 - _fsck_apfs_ - APFS consistency check
 - _fsck_ - filesystem consistency check and interactive repair
-
+- _dd_ - convert and copy a file
+## Spotlight
+- _mdutil_ - manage the metadata stores used by Spotlight
+## Time Machine
+- _tmutil_ - Time Machine utility
+## SIP (Monterey)
+- /System
+- /usr
+- /bin
+- /sbin
+- /System/Volumes/Data/Applications/
+- /private/var/db/ConfigurationProfiles
