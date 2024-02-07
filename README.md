@@ -14,6 +14,11 @@
 - _sysadminctl_
 - _.GlobalPreferences.plist_
 - _fdesetup_ - FileVault configuration tool
+- _kextstat_ - display status of loaded kernel extensions (kexts)
+- _systemextensionsctl_ - System Extensions control
+- _launchctl_ - Interfaces with launchd
+- _launchd_ - System wide and per-user daemon/agent manager
+- _com.apple.loginwindow.plist_
 ## Network 
 - _ifconfig_ - configure network interface parameters
 - _hostname_ - set or print name of current host system
@@ -43,6 +48,7 @@
 ## Directory
 - _dscl_ - Directory Service command line utility
 - _dseditgroup_ - Manipulate group records with the Open Directory API
+- _klist_ - list Kerberos credentials
 ## MDM
 - _profiles_ - Profiles Tool for macOS
 ## Storage
@@ -70,9 +76,10 @@
 - _xattr_ - display and manipulate extended attributes
 - _csrutil_ - Configure system security policies
 - _spctl_ - SecAssessment system policy security
-## Processes
+## Processes & Files
 - _top_ - display sorted information about processes
 - _ps_ - process status
 - _kill_ - terminate or signal a process
 - _killall_ - kill processes by name
 - _log_ - Access system wide log messages created by os_log, os_trace and other logging systems
+- _fs_usage_ - report system calls and page faults related to filesystem activity in real-time
