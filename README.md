@@ -32,3 +32,7 @@
 - _profiles_ - Profiles Tool for macOS
 ## Storage
 - _diskutil_ - modify, verify and repair local disks
+- _gpt_ - GUID partition table maintenance utility
+- _fsck_apfs_ - APFS consistency check
+- _fsck_ - filesystem consistency check and interactive repair
+
