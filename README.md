@@ -12,17 +12,21 @@
 - _cfprefsd_ - defaults server
 - _systemsetup_ - configuration tool for certain machine settings in System Preferences
 - _sysadminctl_
-- _/Library/Preferences/.GlobalPreferences.plist_
+- _.GlobalPreferences.plist_
 ## Network Settings
 - _ifconfig_ - configure network interface parameters
 - _networksetup_ - configuration tool for network settings in System Preferences
-- _/System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart_
+- _kickstart_
 ## Printers
 - _lpadmin_ - configure cups printers and classes
 ## Power settings
 - _pmset_ - manipulate power management settings
-- _/Library/Preferences/.GlobalPreferences.plist_
+- _.GlobalPreferences.plist_
+## Users
+com.apple.loginwindow.plist
+
 ## Directory
 _dscl_ - Directory Service command line utility
 _dseditgroup_ - Manipulate group records with the Open Directory API
-##
+## MDM
+_profiles_ - Profiles Tool for macOS
