@@ -7,3 +7,5 @@
 - /Applications/Install\ macOS\ Sonoma.app/Contents/Resources/
   - createinstallmedia - create macOS USB installer
   - startosinstall - install macOS - [Cheat Sheet](https://gist.github.com/acodega/57766c52a18a828b1ec44ad2492b5127)
+## System Settings
+languagesetup - Set the primary language for the system
