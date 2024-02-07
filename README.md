@@ -14,7 +14,6 @@
 - _sysadminctl_
 - _.GlobalPreferences.plist_
 - _fdesetup_ - FileVault configuration tool
-- 
 ## Network Settings
 - _ifconfig_ - configure network interface parameters
 - _networksetup_ - configuration tool for network settings in System Preferences
@@ -49,3 +48,9 @@
 - /sbin
 - /System/Volumes/Data/Applications/
 - /private/var/db/ConfigurationProfiles
+## Software Intallation
+- _pkgutil_ - Query and manipulate Mac OS X Installer packages and receipts
+- _installer_ - system software and package installer tool
+## Monitoring
+- _top_ - display sorted information about processes
+- _ps_ - process status
