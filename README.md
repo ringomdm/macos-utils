@@ -6,4 +6,4 @@
 - softwareupdate - system software update tool
 - /Applications/Install\ macOS\ Sonoma.app/Contents/Resources/
   - createinstallmedia - create macOS USB installer
-  - startosinstall - [Cheat Sheet](https://gist.github.com/acodega/57766c52a18a828b1ec44ad2492b5127)
+  - startosinstall - install macOS - [Cheat Sheet](https://gist.github.com/acodega/57766c52a18a828b1ec44ad2492b5127)
