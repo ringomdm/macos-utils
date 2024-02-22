@@ -51,7 +51,7 @@
 - _klist_ - list Kerberos credentials
 ## MDM
 - _profiles_ - Profiles Tool for macOS
-- mdmclient - MDM (Mobile Device Management) client
+- _mdmclient_ - MDM (Mobile Device Management) client
 ## Storage
 - _diskutil_ - modify, verify and repair local disks
 - _gpt_ - GUID partition table maintenance utility
