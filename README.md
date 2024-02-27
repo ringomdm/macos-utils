@@ -50,6 +50,7 @@
 - _dscl_ - Directory Service command line utility
 - _dseditgroup_ - Manipulate group records with the Open Directory API
 - _klist_ - list Kerberos credentials
+- _app-sso_ - A tool used to control and get information about the Kerberos SSO extension
 ## MDM
 - _profiles_ - Profiles Tool for macOS
 - _mdmclient_ - MDM (Mobile Device Management) client
