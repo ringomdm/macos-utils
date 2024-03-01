@@ -72,6 +72,7 @@
 - _xattr_ - display and manipulate extended attributes
 - _csrutil_ - Configure system security policies
 - _spctl_ - SecAssessment system policy security
+- _productbuild_ - Build a product archive for the macOS Installer or the Mac App Store
 ## Processes & Files
 - _top_ - display sorted information about processes
 - _ps_ - process status
