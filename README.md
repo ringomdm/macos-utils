@@ -19,6 +19,8 @@
 - _launchctl_ - Interfaces with launchd
 - _launchd_ - System wide and per-user daemon/agent manager
 - _com.apple.loginwindow.plist_
+- _bputil_ - Utility to precisely modify the security settings on Apple Silicon Macs.
+
 ## Network 
 - _ifconfig_ - configure network interface parameters
 - _hostname_ - set or print name of current host system
