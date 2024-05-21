@@ -27,7 +27,8 @@
 - _networksetup_ - configuration tool for network settings in System Preferences
 - _scselect_ - Select system configuration "location"
 - _kickstart_
-- _airport_
+- _wdutil_ - Wireless Diagnostics command line utility
+- _airport_ - [deprecated]
 - _sysctl_ - get or set kernel state
 - _route_ - manually manipulate the routing tables
 - _netstat_ - show network status
