@@ -20,6 +20,8 @@
 - _launchd_ - System wide and per-user daemon/agent manager
 - _com.apple.loginwindow.plist_
 - _bputil_ - Utility to precisely modify the security settings on Apple Silicon Macs.
+- _plutil_ - property list utility
+- _PlistBuddy_
 
 ## Network 
 - _ifconfig_ - configure network interface parameters
