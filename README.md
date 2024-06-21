@@ -51,6 +51,7 @@
 ## Users
 - _com.apple.loginwindow.plist_
 - _chflags_ - change file flags
+- _sc_auth_ - SmartCard authorization setup script
 ## Directory
 - _dscl_ - Directory Service command line utility
 - _dseditgroup_ - Manipulate group records with the Open Directory API
