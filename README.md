@@ -19,7 +19,8 @@
 - _launchctl_ - Interfaces with launchd
 - _launchd_ - System wide and per-user daemon/agent manager
 - _com.apple.loginwindow.plist_
-- _bputil_ - Utility to precisely modify the security settings on Apple Silicon Macs.
+- _bputil_ - Utility to precisely modify the security settings on Apple Silicon Macs
+- _bless_ - set volume bootability and startup disk options
 - _plutil_ - property list utility
 - _PlistBuddy_
 
