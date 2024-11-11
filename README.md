@@ -22,7 +22,8 @@
 - _bputil_ - Utility to precisely modify the security settings on Apple Silicon Macs
 - _bless_ - set volume bootability and startup disk options
 - _plutil_ - property list utility
-- _PlistBuddy_
+- _PlistBuddy_ - read and write values to plists
+- _powermetrics_
 
 ## Network 
 - _ifconfig_ - configure network interface parameters
