@@ -23,8 +23,6 @@
 - _bless_ - set volume bootability and startup disk options
 - _plutil_ - property list utility
 - _PlistBuddy_ - read and write values to plists
-- _powermetrics_
-
 ## Network 
 - _ifconfig_ - configure network interface parameters
 - _hostname_ - set or print name of current host system
@@ -51,6 +49,7 @@
 - _pmset_ - manipulate power management settings
 - _caffeinate_ - prevent the system from sleeping on behalf of a utility
 - _.GlobalPreferences.plist_
+- _powermetrics_
 ## Users
 - _com.apple.loginwindow.plist_
 - _chflags_ - change file flags
